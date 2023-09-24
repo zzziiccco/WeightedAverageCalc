@@ -1,9 +1,18 @@
 # WeightedAverageCalc
 Weighted Average Calculator for OAU Chemistry Graduate School Program
-This weighted average calculator was built to help Graduate school students in Obafemi Awolowo University's Chemistry Programme to calculate their Cumulative Weighted Average. 
+This weighted average calculator was built to help Graduate school students in Obafemi Awolowo University's Chemistry Programme to calculate their Cumulative Weighted Average
+
+	HOW TO USE:
+1. Ensure you have Microsoft Office version 2012 and above installed on your machine.
+2. Download the .xlsm file and run it to make use of the calculator. 
+3. The courses are present in the dropdown list alongside their respective weights. 
+To update the course list, unprotect the data sheet with the password  = "Schrodinger2023".
+Good luck!! 
+
+
 The updated course list as of 2022/2023 session contains the course code, course title and course unit:
 
-	HARMATTAN COURSES		
+	HARMATTAN SEMESTER COURSES		
 CHM801	Separation Techniques and Spectroscopy	4
 CHM803	Advanced Inorganic Chemistry	4
 CHM805	Reaction Kinetics and Mechanisms	2
@@ -34,7 +43,7 @@ CHM857	Thermodynamics of Solution and Related Equilibrium Processes	2
 CHM859	Process Instrumentation and Sample Handling	2
 CHM861	Advanced Petroleum Chemistry II	2
 
-RAIN SEMESTER COURSES		
+	RAIN SEMESTER COURSES		
 CHM802	Experimental Methods in Physical Chemistry	4
 CHM804	Organic Spectroscopy	4
 CHM806	Modern Techniques in Inorganic Chemistry	2
